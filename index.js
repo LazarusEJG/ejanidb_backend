@@ -43,7 +43,7 @@ let titles = [
         "coverfull": "images/full/bleach-tybw-full.png",
         "genre": "Action, Adventure, Drama, Shonen",
         "description": "Substitute Soul Reaper Ichigo Kurosaki spends his days fighting against Hollows, dangerous evil spirits that threaten Karakura Town. Ichigo carries out his quest with his closest allies: Orihime Inoue, his childhood friend with a talent for healing; Yasutora Sado, his high school classmate with superhuman strength; and Uryuu Ishida, Ichigo's Quincy rival. Ichigo's vigilante routine is disrupted by the sudden appearance of Asguiaro Ebern, a dangerous Arrancar who heralds the return of Yhwach, an ancient Quincy king. Yhwach seeks to reignite the historic blood feud between Soul Reaper and Quincy, and he sets his sights on erasing both the human world and the Soul Society for good. Yhwach launches a two-pronged invasion into both the Soul Society and Hueco Mundo, the home of Hollows and Arrancar. In retaliation, Ichigo and his friends must fight alongside old allies and enemies alike to end Yhwach's campaign of carnage before the world itself comes to an end. [Sourced from MyAnimeList]",
-        "trailer": "https://www.youtube.com/embed/rFSJEbRVHxQ?si=UB3Dl2A_mvJzkU1R",
+        "trailer": "https://www.youtube.com/embed/1sygUhb8Q2Y?si=CenjkYCuZqb3doBW",
         "_id": "bleach-tybw"
     },
     {
@@ -57,7 +57,6 @@ let titles = [
         "coverfull": "images/full/bleach-full.png",
         "genre": "Action, Adventure, Drama, Shonen",
         "description": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result. However, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world. [Sourced from MyAnimeList]",
-        "trailer": "https://www.youtube.com/embed/rFSJEbRVHxQ?si=UB3Dl2A_mvJzkU1R",
         "_id": "bleach"
     },
     {
@@ -71,7 +70,6 @@ let titles = [
         "coverfull": "images/full/fmabrotherhood-full.png",
         "genre": "Action, Adventure, Drama",
         "description": "Two brothers search for the Philosopher's Stone after a failed alchemy ritual costs them dearly. Their journey unravels a vast conspiracy reaching to the heart of the military state — a masterclass in plotting, character, and consequence.",
-        "trailer": "https://www.youtube.com/embed/rFSJEbRVHxQ?si=UB3Dl2A_mvJzkU1R",
         "_id": "fullmetal-alchemist-brotherhood"
     },
     {
@@ -85,7 +83,7 @@ let titles = [
         "coverfull": "images/full/aot-full.png",
         "genre": "Action, Adventure, Drama, Shonen",
         "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations. After witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached. [Sourced from MyAnimeList]",
-        "trailer": "https://www.youtube.com/embed/rFSJEbRVHxQ?si=UB3Dl2A_mvJzkU1R",
+        "trailer": "https://www.youtube.com/embed/MUCN-JwUvbY?si=Oke_MPkAibJ7K-_n",
         "_id": "attack-on-titian"
     },
     {
@@ -99,7 +97,7 @@ let titles = [
         "coverfull": "images/full/steinsgate-full.png",
         "genre": "Action, Adventure, Drama, Time-Travel",
         "description": "Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Okabe founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable \"gadget\" the trio have created is a microwave that has the mystifying power to turn bananas into green goo. However, when Okabe attends a conference on time travel, he experiences a series of strange events that lead him to believe that there is more to the \"Phone Microwave\" gadget than meets the eye. Apparently able to send text messages into the past using the microwave, Okabe dabbles further with the \"time machine,\" attracting the ire and attention of the mysterious organization SERN. Due to the novel discovery, Okabe and his friends find themselves in an ever-present danger. As he works to mitigate the damage his invention has caused to the timeline, Okabe fights a battle to not only save his loved ones but also to preserve his degrading sanity. [Sourced from MyAnimeList]",
-        "trailer": "https://www.youtube.com/embed/rFSJEbRVHxQ?si=UB3Dl2A_mvJzkU1R",
+        "trailer": "https://www.youtube.com/embed/m4en7ZkhX8c?si=NTH-Vjq-CkBzqlMy",
         "_id": "steins-gate"
     },
     {
@@ -113,7 +111,7 @@ let titles = [
         "coverfull": "images/full/vinlandsaga-full.png",
         "genre": "Action, Adventure, Drama, Shonen",
         "description": "Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It's said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. Though his father once told him, \"You have no enemies, nobody does. There is nobody who it's okay to hurt,\" as he grew, Thorfinn knew that nothing was further from the truth. The war between England and the Danes grows worse with each passing year. Death has become commonplace, and the viking mercenaries are loving every moment of it. Allying with either side will cause a massive swing in the balance of power, and the vikings are happy to make names for themselves and take any spoils they earn along the way. Among the chaos, Thorfinn must take his revenge and kill Askeladd, the man who murdered his father. The only paradise for the vikings, it seems, is the era of war and death that rages on. [Sourced from MyAnimeList]",
-        "trailer": "https://www.youtube.com/embed/rFSJEbRVHxQ?si=UB3Dl2A_mvJzkU1R",
+        "trailer": "https://www.youtube.com/embed/pahdCwHJjaU?si=4YpS9WBYEwmxWTl5",
         "_id": "vinland-saga"
     },
     {
